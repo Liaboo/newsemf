@@ -1,0 +1,2201 @@
+nohup: 忽略输入
+[15/Mar/2019 15:00:12] "GET / HTTP/1.1" 302 0
+[15/Mar/2019 15:00:12] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 15:00:12] "GET /static/css/font.css HTTP/1.1" 200 505
+[15/Mar/2019 15:00:12] "GET /static/jquery/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[15/Mar/2019 15:00:12] "GET /static/css/xadmin.css HTTP/1.1" 200 10224
+[15/Mar/2019 15:00:12] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[15/Mar/2019 15:00:12] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[15/Mar/2019 15:00:12] "GET /static/js/xadmin.js HTTP/1.1" 200 5668
+[15/Mar/2019 15:00:12] "GET /static/lib/layui/layui.js HTTP/1.1" 200 6542
+[15/Mar/2019 15:00:12] "GET /static/lib/layui/css/layui.css HTTP/1.1" 200 60227
+[15/Mar/2019 15:00:12] "GET /static/images/aiwrap.png HTTP/1.1" 200 3032
+[15/Mar/2019 15:00:12] "GET /static/images/bg.png HTTP/1.1" 200 28211
+[15/Mar/2019 15:00:12] "GET /static/lib/layui/lay/modules/form.js HTTP/1.1" 200 7925
+[15/Mar/2019 15:00:12] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 15:00:12] "GET /static/lib/layui/lay/modules/layer.js HTTP/1.1" 200 22063
+[15/Mar/2019 15:00:12] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 15:00:12] "GET /static/lib/layui/lay/modules/element.js HTTP/1.1" 200 7264
+[15/Mar/2019 15:00:12] "GET /static/lib/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14425
+[15/Mar/2019 15:00:18] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 15:00:18] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 15:00:18] "GET /static/lib/layui/font/iconfont.woff?v=226_rc2 HTTP/1.1" 200 26840
+[15/Mar/2019 15:00:18] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 15:00:18] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:00:18] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:00:20] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[15/Mar/2019 15:00:20] "GET /static/lib/layui/lay/modules/table.js HTTP/1.1" 200 20828
+[15/Mar/2019 15:00:20] "GET /static/lib/layui/lay/modules/laytpl.js HTTP/1.1" 200 1836
+[15/Mar/2019 15:00:20] "GET /static/lib/layui/lay/modules/laypage.js HTTP/1.1" 200 4319
+[15/Mar/2019 15:00:20] "POST /manage/userrequest/list/ HTTP/1.1" 200 1000
+[15/Mar/2019 15:00:24] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 15:00:25] "POST /manage/user/list/ HTTP/1.1" 200 70
+[15/Mar/2019 15:00:37] "GET // HTTP/1.1" 200 330
+[15/Mar/2019 15:00:37] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:00:52] "GET /mapped HTTP/1.1" 301 0
+[15/Mar/2019 15:00:52] "GET /mapped/ HTTP/1.1" 200 5295
+[15/Mar/2019 15:00:52] "POST /mapped/list/ HTTP/1.1" 200 70
+[15/Mar/2019 15:00:52] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:00:57] "GET /semf HTTP/1.1" 301 0
+[15/Mar/2019 15:00:57] "GET /semf/ HTTP/1.1" 200 15366
+[15/Mar/2019 15:00:57] "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+[15/Mar/2019 15:00:57] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+[15/Mar/2019 15:00:57] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[15/Mar/2019 15:00:58] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[15/Mar/2019 15:00:58] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[15/Mar/2019 15:00:58] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[15/Mar/2019 15:00:58] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[15/Mar/2019 15:00:58] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[15/Mar/2019 15:00:58] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[15/Mar/2019 15:00:58] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:01:00] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 4907
+[15/Mar/2019 15:01:00] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[15/Mar/2019 15:01:00] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[15/Mar/2019 15:01:00] "GET /static/admin/js/core.js HTTP/1.1" 200 7134
+[15/Mar/2019 15:01:00] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[15/Mar/2019 15:01:00] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6897
+[15/Mar/2019 15:01:00] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 15:01:00] "GET /static/admin/js/actions.js HTTP/1.1" 200 6502
+[15/Mar/2019 15:01:00] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8729
+[15/Mar/2019 15:01:00] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[15/Mar/2019 15:01:00] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[15/Mar/2019 15:01:00] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[15/Mar/2019 15:01:00] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:01:04] "POST /semf/RBAC/userrequest/ HTTP/1.1" 200 3680
+[15/Mar/2019 15:01:04] "GET /static/admin/js/cancel.js HTTP/1.1" 200 204
+[15/Mar/2019 15:01:04] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:01:05] "POST /semf/RBAC/userrequest/ HTTP/1.1" 302 0
+[15/Mar/2019 15:01:05] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 3404
+[15/Mar/2019 15:01:05] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 15:01:05] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[15/Mar/2019 15:01:06] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:01:08] "GET /semf/RBAC/userrequest/add/ HTTP/1.1" 200 9655
+[15/Mar/2019 15:01:08] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[15/Mar/2019 15:01:08] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[15/Mar/2019 15:01:08] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 15:01:08] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[15/Mar/2019 15:01:08] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[15/Mar/2019 15:01:08] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:01:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:02:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:03:18] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:04:18] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:05:18] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:06:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:07:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:08:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:09:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:10:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:11:18] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:12:18] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:13:18] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:14:18] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:15:18] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:16:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:17:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:18:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:19:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:20:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:21:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:22:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:23:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:24:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:25:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:26:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:27:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:28:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:29:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:30:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:31:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:32:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:33:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:34:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:35:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:36:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:37:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:38:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:39:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:40:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:41:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:42:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:43:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:44:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:45:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:46:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:47:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:48:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:49:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:50:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:51:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:52:19] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:53:18] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:53:20] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 15:53:20] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 15:53:20] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:53:20] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:53:24] "GET / HTTP/1.1" 302 0
+[15/Mar/2019 15:53:24] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 15:53:25] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 15:53:25] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:53:25] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:53:33] "GET /semf HTTP/1.1" 301 0
+[15/Mar/2019 15:53:33] "GET /semf/ HTTP/1.1" 200 15227
+[15/Mar/2019 15:53:33] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[15/Mar/2019 15:53:33] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:53:38] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 3277
+[15/Mar/2019 15:53:39] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 15:53:39] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:53:42] "GET /user/logout/ HTTP/1.1" 302 0
+[15/Mar/2019 15:53:42] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 15:53:42] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 15:53:42] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 15:53:44] "GET /view/regist/regist/ HTTP/1.1" 200 2838
+[15/Mar/2019 15:53:44] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 15:53:44] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 15:53:58] "POST /view/regist/regist/ HTTP/1.1" 200 3167
+[15/Mar/2019 15:53:58] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 15:53:58] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 15:54:01] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 15:54:01] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 15:54:01] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 15:54:06] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 15:54:06] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 15:54:06] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:54:06] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 15:54:06] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:54:11] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 4438
+[15/Mar/2019 15:54:11] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 15:54:11] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:54:13] "GET /semf/RBAC/userrequest/9/change/ HTTP/1.1" 200 9935
+[15/Mar/2019 15:54:13] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 15:54:13] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 15:54:19] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[15/Mar/2019 15:54:19] "POST /manage/userrequest/list/ HTTP/1.1" 200 276
+[15/Mar/2019 15:54:20] "GET /static/lib/layui/css/modules/layer/default/icon.png HTTP/1.1" 200 11493
+[15/Mar/2019 15:54:22] "POST /manage/userrequest/action/ HTTP/1.1" 200 109
+[15/Mar/2019 15:54:24] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[15/Mar/2019 15:54:24] "POST /manage/userrequest/list/ HTTP/1.1" 200 363
+[15/Mar/2019 15:55:06] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:56:06] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:57:06] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:58:06] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 15:59:06] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:00:06] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:01:06] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:02:06] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:03:07] "GET /notice/count/ HTTP/1.1" 200 19
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 15, 2019 - 15:00:03
+Django version 2.0.4, using settings 'SeMF.settings'
+Starting development server at http://0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 15, 2019 - 16:44:55
+Django version 2.0.4, using settings 'SeMF.settings'
+Starting development server at http://0:8000/
+Quit the server with CONTROL-C.
+[15/Mar/2019 16:45:34] "GET / HTTP/1.1" 302 0
+[15/Mar/2019 16:45:34] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:45:34] "GET /static/css/font.css HTTP/1.1" 200 505
+[15/Mar/2019 16:45:34] "GET /static/css/xadmin.css HTTP/1.1" 200 10224
+[15/Mar/2019 16:45:34] "GET /static/lib/layui/layui.js HTTP/1.1" 200 6542
+[15/Mar/2019 16:45:34] "GET /static/jquery/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[15/Mar/2019 16:45:34] "GET /static/js/xadmin.js HTTP/1.1" 200 5668
+[15/Mar/2019 16:45:34] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[15/Mar/2019 16:45:34] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[15/Mar/2019 16:45:34] "GET /static/lib/layui/css/layui.css HTTP/1.1" 200 60227
+[15/Mar/2019 16:45:34] "GET /static/images/aiwrap.png HTTP/1.1" 200 3032
+[15/Mar/2019 16:45:34] "GET /static/images/bg.png HTTP/1.1" 200 28211
+[15/Mar/2019 16:45:34] "GET /static/lib/layui/lay/modules/form.js HTTP/1.1" 200 7925
+[15/Mar/2019 16:45:34] "GET /static/lib/layui/lay/modules/layer.js HTTP/1.1" 200 22063
+[15/Mar/2019 16:45:34] "GET /static/lib/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14425
+[15/Mar/2019 16:45:34] "GET /static/lib/layui/lay/modules/element.js HTTP/1.1" 200 7264
+[15/Mar/2019 16:45:44] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:45:44] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 16:45:44] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:45:44] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:45:44] "GET /static/lib/layui/font/iconfont.woff?v=226_rc2 HTTP/1.1" 200 26840
+[15/Mar/2019 16:45:44] "GET /static/fonts/iconfont.woff HTTP/1.1" 200 30200
+[15/Mar/2019 16:45:47] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[15/Mar/2019 16:45:47] "GET /static/lib/layui/lay/modules/table.js HTTP/1.1" 200 20828
+[15/Mar/2019 16:45:47] "GET /static/lib/layui/lay/modules/laytpl.js HTTP/1.1" 200 1836
+[15/Mar/2019 16:45:47] "GET /static/lib/layui/lay/modules/laypage.js HTTP/1.1" 200 4319
+[15/Mar/2019 16:45:47] "POST /manage/userrequest/list/ HTTP/1.1" 200 363
+[15/Mar/2019 16:45:51] "GET / HTTP/1.1" 302 0
+[15/Mar/2019 16:45:51] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 16:45:52] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:45:52] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:45:56] "GET /semf HTTP/1.1" 301 0
+[15/Mar/2019 16:45:56] "GET /semf/ HTTP/1.1" 200 15227
+[15/Mar/2019 16:45:56] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[15/Mar/2019 16:45:56] "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+[15/Mar/2019 16:45:56] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+[15/Mar/2019 16:45:56] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[15/Mar/2019 16:45:57] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[15/Mar/2019 16:45:57] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[15/Mar/2019 16:45:57] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[15/Mar/2019 16:45:57] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[15/Mar/2019 16:45:57] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[15/Mar/2019 16:45:57] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[15/Mar/2019 16:45:59] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 4438
+[15/Mar/2019 16:45:59] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[15/Mar/2019 16:45:59] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[15/Mar/2019 16:45:59] "GET /static/admin/js/core.js HTTP/1.1" 200 7134
+[15/Mar/2019 16:45:59] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:45:59] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6897
+[15/Mar/2019 16:45:59] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8729
+[15/Mar/2019 16:45:59] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[15/Mar/2019 16:45:59] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[15/Mar/2019 16:45:59] "GET /static/admin/js/actions.js HTTP/1.1" 200 6502
+[15/Mar/2019 16:45:59] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[15/Mar/2019 16:45:59] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[15/Mar/2019 16:46:00] "GET /semf/RBAC/userrequest/9/change/ HTTP/1.1" 200 9943
+[15/Mar/2019 16:46:00] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[15/Mar/2019 16:46:00] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:46:00] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[15/Mar/2019 16:46:00] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[15/Mar/2019 16:46:00] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[15/Mar/2019 16:46:03] "POST /semf/RBAC/userrequest/9/change/ HTTP/1.1" 200 10078
+[15/Mar/2019 16:46:03] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:46:07] "POST /semf/RBAC/userrequest/9/change/ HTTP/1.1" 302 0
+[15/Mar/2019 16:46:07] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 4622
+[15/Mar/2019 16:46:07] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:46:07] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[15/Mar/2019 16:46:09] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 16:46:09] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:46:09] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:46:10] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[15/Mar/2019 16:46:10] "POST /manage/userrequest/list/ HTTP/1.1" 200 276
+[15/Mar/2019 16:46:12] "GET /static/lib/layui/css/modules/layer/default/icon.png HTTP/1.1" 200 11493
+[15/Mar/2019 16:46:14] "POST /manage/userrequest/action/ HTTP/1.1" 200 97
+[15/Mar/2019 16:46:16] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[15/Mar/2019 16:46:16] "POST /manage/userrequest/list/ HTTP/1.1" 200 386
+[15/Mar/2019 16:46:22] "GET /view/regist/a8deb3af734aaed89a350e3ce27608f0 HTTP/1.1" 301 0
+[15/Mar/2019 16:46:22] "GET /view/regist/a8deb3af734aaed89a350e3ce27608f0/ HTTP/1.1" 200 2433
+[15/Mar/2019 16:46:22] "GET /static/css/font.css HTTP/1.1" 200 505
+[15/Mar/2019 16:46:22] "GET /static/css/xadmin.css HTTP/1.1" 200 10224
+[15/Mar/2019 16:46:22] "GET /static/jquery/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[15/Mar/2019 16:46:22] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[15/Mar/2019 16:46:22] "GET /static/lib/layui/layui.js HTTP/1.1" 200 6542
+[15/Mar/2019 16:46:22] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[15/Mar/2019 16:46:22] "GET /static/js/xadmin.js HTTP/1.1" 200 5668
+[15/Mar/2019 16:46:22] "GET /static/lib/layui/css/layui.css HTTP/1.1" 200 60227
+[15/Mar/2019 16:46:22] "GET /static/images/aiwrap.png HTTP/1.1" 200 3032
+[15/Mar/2019 16:46:22] "GET /static/images/bg.png HTTP/1.1" 200 28211
+[15/Mar/2019 16:46:22] "GET /static/lib/layui/lay/modules/form.js HTTP/1.1" 200 7925
+[15/Mar/2019 16:46:22] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:46:22] "GET /static/lib/layui/lay/modules/layer.js HTTP/1.1" 200 22063
+[15/Mar/2019 16:46:22] "GET /static/lib/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14425
+[15/Mar/2019 16:46:22] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:46:22] "GET /static/lib/layui/lay/modules/element.js HTTP/1.1" 200 7264
+[15/Mar/2019 16:46:41] "POST /view/regist/a8deb3af734aaed89a350e3ce27608f0/ HTTP/1.1" 302 0
+[15/Mar/2019 16:46:41] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:46:42] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:46:42] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:46:51] "POST /view/ HTTP/1.1" 200 2488
+[15/Mar/2019 16:46:51] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:46:51] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:46:54] "POST /view/ HTTP/1.1" 200 2488
+[15/Mar/2019 16:46:54] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:46:54] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:47:05] "POST /view/ HTTP/1.1" 200 2481
+[15/Mar/2019 16:47:05] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:47:05] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:47:09] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:47:14] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 16:47:14] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:47:14] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:47:17] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:47:17] "POST /manage/user/list/ HTTP/1.1" 200 289
+[15/Mar/2019 16:47:24] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 4438
+[15/Mar/2019 16:47:24] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:47:25] "GET /semf/RBAC/userrequest/9/change/ HTTP/1.1" 200 9991
+[15/Mar/2019 16:47:25] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:47:29] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 4438
+[15/Mar/2019 16:47:34] "GET /semf/ HTTP/1.1" 200 15227
+[15/Mar/2019 16:47:35] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 4438
+[15/Mar/2019 16:47:35] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:47:37] "GET /semf/ HTTP/1.1" 200 15227
+[15/Mar/2019 16:47:38] "GET /semf/auth/user/ HTTP/1.1" 200 7528
+[15/Mar/2019 16:47:38] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[15/Mar/2019 16:47:38] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[15/Mar/2019 16:47:38] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:47:38] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[15/Mar/2019 16:47:46] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:47:46] "GET /user/ HTTP/1.1" 200 6334
+[15/Mar/2019 16:47:46] "GET /static/fonts/iconfont.woff HTTP/1.1" 200 30200
+[15/Mar/2019 16:47:46] "GET /static/lib/layui/font/iconfont.woff?v=226_rc2 HTTP/1.1" 200 26840
+[15/Mar/2019 16:47:46] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:47:46] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:47:46] "GET /favicon.ico HTTP/1.1" 200 151
+[15/Mar/2019 16:47:51] "GET /article/user/ HTTP/1.1" 200 5765
+[15/Mar/2019 16:47:51] "GET /static/lib/layui/lay/modules/table.js HTTP/1.1" 200 20828
+[15/Mar/2019 16:47:51] "GET /static/lib/layui/lay/modules/laytpl.js HTTP/1.1" 200 1836
+[15/Mar/2019 16:47:51] "GET /static/lib/layui/lay/modules/laypage.js HTTP/1.1" 200 4319
+[15/Mar/2019 16:47:52] "POST /article/user/list/ HTTP/1.1" 200 70
+[15/Mar/2019 16:47:52] "GET /chart/ HTTP/1.1" 200 6104
+[15/Mar/2019 16:47:52] "GET /static/js/echarts.common.min.js HTTP/1.1" 200 452876
+[15/Mar/2019 16:47:53] "GET /chart/getdatemonth/ HTTP/1.1" 200 772
+[15/Mar/2019 16:47:54] "GET /vuln/cnvd/ HTTP/1.1" 200 4202
+[15/Mar/2019 16:47:54] "GET /vuln/user/ HTTP/1.1" 200 6163
+[15/Mar/2019 16:47:54] "POST /vuln/cnvd/list/ HTTP/1.1" 200 3522
+[15/Mar/2019 16:47:55] "POST /vuln/user/list/ HTTP/1.1" 200 70
+[15/Mar/2019 16:47:56] "GET /task/user/ HTTP/1.1" 200 6341
+[15/Mar/2019 16:47:56] "POST /task/user/list/ HTTP/1.1" 200 70
+[15/Mar/2019 16:48:15] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:48:46] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:49:15] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:49:46] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:50:05] "GET /semf/auth/user/4/change/ HTTP/1.1" 200 20678
+[15/Mar/2019 16:50:05] "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 5755
+[15/Mar/2019 16:50:05] "GET /static/admin/js/calendar.js HTTP/1.1" 200 7777
+[15/Mar/2019 16:50:05] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:50:05] "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12680
+[15/Mar/2019 16:50:05] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20283
+[15/Mar/2019 16:50:05] "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+[15/Mar/2019 16:50:05] "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+[15/Mar/2019 16:50:05] "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+[15/Mar/2019 16:50:05] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[15/Mar/2019 16:50:05] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[15/Mar/2019 16:50:14] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:50:25] "GET /static/lib/layui/css/modules/layer/default/loading-1.gif HTTP/1.1" 200 701
+[15/Mar/2019 16:50:25] "GET /static/lib/layui/css/modules/layer/default/icon.png HTTP/1.1" 200 11493
+[15/Mar/2019 16:50:25] "GET /user/info/ HTTP/1.1" 200 1695
+[15/Mar/2019 16:50:34] "GET /user/changeinfo/ HTTP/1.1" 200 3807
+[15/Mar/2019 16:50:35] "GET /static/lib/layui/lay/modules/laydate.js HTTP/1.1" 200 27337
+[15/Mar/2019 16:50:35] "GET /static/lib/layui/lay/modules/layedit.js HTTP/1.1" 200 12635
+[15/Mar/2019 16:50:35] "GET /static/lib/layui/css/modules/laydate/default/laydate.css?v=5.0.9 HTTP/1.1" 200 7537
+[15/Mar/2019 16:50:39] "GET /asset/user/handover/ HTTP/1.1" 200 2733
+[15/Mar/2019 16:50:43] "GET /user/changeinfo/ HTTP/1.1" 200 3807
+[15/Mar/2019 16:50:46] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:50:49] "GET /user/info/ HTTP/1.1" 200 1695
+[15/Mar/2019 16:50:55] "GET /asset/user/ HTTP/1.1" 200 10102
+[15/Mar/2019 16:50:55] "POST /asset/user/list/ HTTP/1.1" 200 70
+[15/Mar/2019 16:51:10] "GET /user/info/ HTTP/1.1" 200 1695
+[15/Mar/2019 16:51:13] "GET /user/changeinfo/ HTTP/1.1" 200 3807
+[15/Mar/2019 16:51:14] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:51:16] "GET /user/logout/ HTTP/1.1" 302 0
+[15/Mar/2019 16:51:16] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:51:16] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:51:17] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:51:18] "GET /view/regist/regist/ HTTP/1.1" 200 2838
+[15/Mar/2019 16:51:18] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:51:18] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:51:33] "POST /view/regist/regist/ HTTP/1.1" 200 3168
+[15/Mar/2019 16:51:34] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:51:34] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:51:38] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:51:38] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:51:38] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:51:42] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:51:42] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 16:51:42] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:51:42] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:51:43] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:51:44] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:51:44] "POST /manage/user/list/ HTTP/1.1" 200 310
+[15/Mar/2019 16:51:45] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[15/Mar/2019 16:51:46] "POST /manage/userrequest/list/ HTTP/1.1" 200 584
+[15/Mar/2019 16:51:49] "POST /manage/userrequest/action/ HTTP/1.1" 200 97
+[15/Mar/2019 16:51:52] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[15/Mar/2019 16:51:53] "POST /manage/userrequest/list/ HTTP/1.1" 200 671
+[15/Mar/2019 16:51:57] "GET /view/regist/430766ec4d6d528d9df9b3a281f74801 HTTP/1.1" 301 0
+[15/Mar/2019 16:51:57] "GET /view/regist/430766ec4d6d528d9df9b3a281f74801/ HTTP/1.1" 200 2433
+[15/Mar/2019 16:51:57] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:52:14] "POST /view/regist/430766ec4d6d528d9df9b3a281f74801/ HTTP/1.1" 302 0
+[15/Mar/2019 16:52:14] "GET /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:52:14] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 16:52:14] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:52:14] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:52:14] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:52:14] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:52:16] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:52:17] "POST /manage/user/list/ HTTP/1.1" 200 517
+[15/Mar/2019 16:52:23] "GET /user/logout/ HTTP/1.1" 302 0
+[15/Mar/2019 16:52:23] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:52:24] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:52:24] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:52:33] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:52:33] "GET /user/ HTTP/1.1" 200 7388
+[15/Mar/2019 16:52:33] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:52:33] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:52:33] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:52:37] "GET /manage/user/ HTTP/1.1" 200 1405
+[15/Mar/2019 16:52:39] "GET /manage/userrequest/ HTTP/1.1" 200 1405
+[15/Mar/2019 16:52:40] "GET /user/ HTTP/1.1" 200 7388
+[15/Mar/2019 16:52:41] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:52:41] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:52:41] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:52:42] "GET /manage/user/ HTTP/1.1" 200 1405
+[15/Mar/2019 16:52:43] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:52:43] "GET /user/ HTTP/1.1" 200 7388
+[15/Mar/2019 16:52:43] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:52:43] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:52:44] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:52:48] "GET /user/ HTTP/1.1" 200 7388
+[15/Mar/2019 16:52:48] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:52:48] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:52:48] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:52:51] "GET /article/user/ HTTP/1.1" 200 5765
+[15/Mar/2019 16:52:51] "POST /article/user/list/ HTTP/1.1" 200 70
+[15/Mar/2019 16:53:14] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:53:15] "GET / HTTP/1.1" 302 0
+[15/Mar/2019 16:53:15] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:53:15] "GET /static/css/font.css HTTP/1.1" 200 505
+[15/Mar/2019 16:53:15] "GET /static/lib/layui/layui.js HTTP/1.1" 200 6542
+[15/Mar/2019 16:53:15] "GET /static/css/xadmin.css HTTP/1.1" 200 10224
+[15/Mar/2019 16:53:15] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[15/Mar/2019 16:53:15] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[15/Mar/2019 16:53:15] "GET /static/js/xadmin.js HTTP/1.1" 200 5668
+[15/Mar/2019 16:53:15] "GET /static/jquery/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[15/Mar/2019 16:53:15] "GET /static/lib/layui/css/layui.css HTTP/1.1" 200 60227
+[15/Mar/2019 16:53:16] "GET /static/images/bg.png HTTP/1.1" 200 28211
+[15/Mar/2019 16:53:16] "GET /static/images/aiwrap.png HTTP/1.1" 200 3032
+[15/Mar/2019 16:53:16] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:53:16] "GET /static/lib/layui/lay/modules/form.js HTTP/1.1" 200 7925
+[15/Mar/2019 16:53:16] "GET /static/lib/layui/lay/modules/layer.js HTTP/1.1" 200 22063
+[15/Mar/2019 16:53:16] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:53:16] "GET /static/lib/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14425
+[15/Mar/2019 16:53:16] "GET /static/lib/layui/lay/modules/element.js HTTP/1.1" 200 7264
+[15/Mar/2019 16:53:27] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:53:27] "GET /user/ HTTP/1.1" 200 7388
+[15/Mar/2019 16:53:27] "GET /static/lib/layui/font/iconfont.woff?v=226_rc2 HTTP/1.1" 200 26840
+[15/Mar/2019 16:53:27] "GET /static/fonts/iconfont.woff HTTP/1.1" 200 30200
+[15/Mar/2019 16:53:27] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:53:27] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:53:27] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:53:31] "GET /manage/user/ HTTP/1.1" 200 1405
+[15/Mar/2019 16:53:34] "GET /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:53:34] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:53:36] "GET /manage/userrequest/ HTTP/1.1" 200 1405
+[15/Mar/2019 16:53:38] "GET /user/logout/ HTTP/1.1" 302 0
+[15/Mar/2019 16:53:38] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:53:38] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:53:43] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:53:44] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:53:44] "GET /user/ HTTP/1.1" 200 6334
+[15/Mar/2019 16:53:44] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:53:44] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:53:44] "GET /favicon.ico HTTP/1.1" 200 151
+[15/Mar/2019 16:53:48] "GET /notice/ HTTP/1.1" 200 6184
+[15/Mar/2019 16:53:48] "GET /static/lib/layui/lay/modules/table.js HTTP/1.1" 200 20828
+[15/Mar/2019 16:53:48] "GET /static/lib/layui/lay/modules/laytpl.js HTTP/1.1" 200 1836
+[15/Mar/2019 16:53:48] "GET /static/lib/layui/lay/modules/laypage.js HTTP/1.1" 200 4319
+[15/Mar/2019 16:53:48] "POST /notice/list/ HTTP/1.1" 200 82
+[15/Mar/2019 16:53:51] "GET /asset/user/ HTTP/1.1" 200 10102
+[15/Mar/2019 16:53:51] "POST /asset/user/list/ HTTP/1.1" 200 70
+[15/Mar/2019 16:53:52] "GET /mapped/ HTTP/1.1" 200 5094
+[15/Mar/2019 16:53:52] "POST /mapped/list/ HTTP/1.1" 200 70
+[15/Mar/2019 16:53:53] "GET /vuln/cnvd/ HTTP/1.1" 200 4202
+[15/Mar/2019 16:53:53] "POST /vuln/cnvd/list/ HTTP/1.1" 200 3522
+[15/Mar/2019 16:53:53] "GET /vuln/user/ HTTP/1.1" 200 6163
+[15/Mar/2019 16:53:53] "POST /vuln/user/list/ HTTP/1.1" 200 70
+[15/Mar/2019 16:53:56] "GET /chart/ HTTP/1.1" 200 6104
+[15/Mar/2019 16:53:56] "GET /static/js/echarts.common.min.js HTTP/1.1" 200 452876
+[15/Mar/2019 16:53:56] "GET /chart/getdatemonth/ HTTP/1.1" 200 772
+[15/Mar/2019 16:53:57] "GET /task/user/ HTTP/1.1" 200 6341
+[15/Mar/2019 16:53:57] "POST /task/user/list/ HTTP/1.1" 200 70
+[15/Mar/2019 16:54:14] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:54:34] "GET /semf/ HTTP/1.1" 200 15227
+[15/Mar/2019 16:54:36] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 4675
+[15/Mar/2019 16:54:36] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:54:41] "POST /semf/RBAC/userrequest/ HTTP/1.1" 200 3526
+[15/Mar/2019 16:54:41] "GET /static/admin/js/cancel.js HTTP/1.1" 200 204
+[15/Mar/2019 16:54:42] "POST /semf/RBAC/userrequest/ HTTP/1.1" 302 0
+[15/Mar/2019 16:54:42] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 3404
+[15/Mar/2019 16:54:42] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:54:42] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:54:44] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 3277
+[15/Mar/2019 16:54:45] "GET /semf/ HTTP/1.1" 200 15134
+[15/Mar/2019 16:54:46] "GET /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:54:46] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:54:49] "GET /user/logout/ HTTP/1.1" 302 0
+[15/Mar/2019 16:54:49] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:54:56] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:54:56] "GET /user/ HTTP/1.1" 200 6334
+[15/Mar/2019 16:54:56] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:54:56] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:55:03] "GET /user/logout/ HTTP/1.1" 302 0
+[15/Mar/2019 16:55:03] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:55:08] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:55:08] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 16:55:08] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:55:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:55:10] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:55:10] "POST /manage/user/list/ HTTP/1.1" 200 538
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:16] "POST /manage/user/disactivate/ HTTP/1.1" 500 15925
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:19] "POST /manage/user/disactivate/ HTTP/1.1" 500 15925
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:20] "POST /manage/user/disactivate/ HTTP/1.1" 500 15925
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:22] "POST /manage/user/disactivate/ HTTP/1.1" 500 15925
+[15/Mar/2019 16:55:26] "POST /manage/user/disactivate/ HTTP/1.1" 200 31
+[15/Mar/2019 16:55:28] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:55:28] "POST /manage/user/list/ HTTP/1.1" 200 538
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:34] "POST /manage/user/disactivate/ HTTP/1.1" 500 15905
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:36] "POST /manage/user/disactivate/ HTTP/1.1" 500 15905
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:38] "POST /manage/user/disactivate/ HTTP/1.1" 500 15905
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:38] "POST /manage/user/disactivate/ HTTP/1.1" 500 15905
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:38] "POST /manage/user/disactivate/ HTTP/1.1" 500 15905
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:38] "POST /manage/user/disactivate/ HTTP/1.1" 500 15905
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:39] "POST /manage/user/disactivate/ HTTP/1.1" 500 15905
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:41] "POST /manage/user/disactivate/ HTTP/1.1" 500 15905
+[15/Mar/2019 16:55:42] "GET /notice/count/ HTTP/1.1" 302 0
+[15/Mar/2019 16:55:42] "GET /view/?next=/notice/count/ HTTP/1.1" 200 2189
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:47] "POST /manage/user/disactivate/ HTTP/1.1" 500 15925
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:48] "POST /manage/user/disactivate/ HTTP/1.1" 500 15925
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:55:50] "POST /manage/user/disactivate/ HTTP/1.1" 500 15926
+[15/Mar/2019 16:55:54] "POST /manage/user/disactivate/ HTTP/1.1" 200 31
+[15/Mar/2019 16:55:56] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:55:56] "POST /manage/user/list/ HTTP/1.1" 200 538
+[15/Mar/2019 16:55:59] "POST /manage/user/disactivate/ HTTP/1.1" 200 31
+[15/Mar/2019 16:56:01] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:56:01] "POST /manage/user/list/ HTTP/1.1" 200 538
+[15/Mar/2019 16:56:03] "POST /manage/user/disactivate/ HTTP/1.1" 200 31
+[15/Mar/2019 16:56:05] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:56:05] "POST /manage/user/list/ HTTP/1.1" 200 538
+[15/Mar/2019 16:56:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:56:08] "POST /manage/user/disactivate/ HTTP/1.1" 200 31
+[15/Mar/2019 16:56:10] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:56:10] "POST /manage/user/list/ HTTP/1.1" 200 538
+[15/Mar/2019 16:56:13] "POST /manage/user/disactivate/ HTTP/1.1" 200 31
+[15/Mar/2019 16:56:16] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:56:16] "POST /manage/user/list/ HTTP/1.1" 200 538
+[15/Mar/2019 16:56:17] "GET /static/lib/layui/css/modules/layer/default/loading-1.gif HTTP/1.1" 200 701
+[15/Mar/2019 16:56:18] "GET /manage/user/add/ HTTP/1.1" 200 3185
+[15/Mar/2019 16:56:18] "GET /static/lib/layui/lay/modules/laydate.js HTTP/1.1" 200 27337
+[15/Mar/2019 16:56:18] "GET /static/lib/layui/lay/modules/layedit.js HTTP/1.1" 200 12635
+[15/Mar/2019 16:56:18] "GET /static/lib/layui/css/modules/laydate/default/laydate.css?v=5.0.9 HTTP/1.1" 200 7537
+[15/Mar/2019 16:56:23] "GET /manage/user/add/ HTTP/1.1" 200 3185
+[15/Mar/2019 16:56:34] "POST /manage/user/add/ HTTP/1.1" 200 3500
+[15/Mar/2019 16:56:40] "GET /view/regist/8719b5a0ea0cfed32a4c71d161dce756 HTTP/1.1" 301 0
+[15/Mar/2019 16:56:40] "GET /view/regist/8719b5a0ea0cfed32a4c71d161dce756/ HTTP/1.1" 200 2433
+[15/Mar/2019 16:56:40] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:56:43] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:56:43] "GET /view/regist/8719b5a0ea0cfed32a4c71d161dce756/ HTTP/1.1" 200 2433
+[15/Mar/2019 16:56:43] "GET /favicon.ico HTTP/1.1" 200 330
+Forbidden (CSRF token missing or incorrect.): /manage/userrequest/stop/
+[15/Mar/2019 16:57:00] "POST /manage/userrequest/stop/ HTTP/1.1" 403 2508
+Forbidden (CSRF token missing or incorrect.): /manage/userrequest/stop/
+[15/Mar/2019 16:57:01] "POST /manage/userrequest/stop/ HTTP/1.1" 403 2508
+[15/Mar/2019 16:57:06] "GET / HTTP/1.1" 302 0
+[15/Mar/2019 16:57:06] "GET /user/ HTTP/1.1" 200 7388
+[15/Mar/2019 16:57:06] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:57:06] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:57:07] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:57:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:57:09] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 1405
+[15/Mar/2019 16:57:09] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:57:10] "GET /semf/ HTTP/1.1" 200 1405
+[15/Mar/2019 16:57:11] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:57:16] "GET /semf/ HTTP/1.1" 200 1405
+[15/Mar/2019 16:57:16] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:57:17] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:57:20] "GET / HTTP/1.1" 302 0
+[15/Mar/2019 16:57:20] "GET /user/ HTTP/1.1" 200 7388
+[15/Mar/2019 16:57:21] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:57:21] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:57:21] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:57:27] "GET /user/logout/ HTTP/1.1" 302 0
+[15/Mar/2019 16:57:27] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:57:27] "GET /favicon.ico HTTP/1.1" 302 0
+[15/Mar/2019 16:57:27] "GET /view/ HTTP/1.1" 200 2189
+[15/Mar/2019 16:57:33] "POST /view/ HTTP/1.1" 302 0
+[15/Mar/2019 16:57:33] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 16:57:34] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:57:34] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:57:34] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:58:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:58:16] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[15/Mar/2019 16:58:16] "POST /manage/userrequest/list/ HTTP/1.1" 200 387
+[15/Mar/2019 16:58:16] "GET /manage/user/ HTTP/1.1" 200 5964
+[15/Mar/2019 16:58:17] "POST /manage/user/list/ HTTP/1.1" 200 538
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:58:24] "POST /manage/user/disactivate/ HTTP/1.1" 500 15964
+Internal Server Error: /manage/user/disactivate/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/RBAC/views.py", line 571, in user_disactivate
+    user_get = get_object_or_404(User,email =user_mail )
+  File "/usr/local/lib/python3.6/site-packages/django/shortcuts.py", line 87, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/db/models/query.py", line 407, in get
+    (self.model._meta.object_name, num)
+django.contrib.auth.models.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[15/Mar/2019 16:58:25] "POST /manage/user/disactivate/ HTTP/1.1" 500 15964
+[15/Mar/2019 16:58:31] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 4440
+[15/Mar/2019 16:58:31] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[15/Mar/2019 16:58:31] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[15/Mar/2019 16:58:31] "GET /static/admin/js/core.js HTTP/1.1" 200 7134
+[15/Mar/2019 16:58:31] "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+[15/Mar/2019 16:58:31] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:58:31] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6897
+[15/Mar/2019 16:58:31] "GET /static/admin/js/actions.js HTTP/1.1" 200 6502
+[15/Mar/2019 16:58:31] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[15/Mar/2019 16:58:31] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8729
+[15/Mar/2019 16:58:31] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+[15/Mar/2019 16:58:31] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[15/Mar/2019 16:58:31] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[15/Mar/2019 16:58:31] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[15/Mar/2019 16:58:31] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[15/Mar/2019 16:58:31] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[15/Mar/2019 16:58:31] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[15/Mar/2019 16:58:31] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[15/Mar/2019 16:58:31] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:58:35] "POST /semf/RBAC/userrequest/ HTTP/1.1" 200 3369
+[15/Mar/2019 16:58:35] "GET /static/admin/js/cancel.js HTTP/1.1" 200 204
+[15/Mar/2019 16:58:35] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:58:37] "POST /semf/RBAC/userrequest/ HTTP/1.1" 302 0
+[15/Mar/2019 16:58:37] "GET /semf/RBAC/userrequest/ HTTP/1.1" 200 3403
+[15/Mar/2019 16:58:37] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:58:37] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[15/Mar/2019 16:58:37] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:58:37] "GET /semf/RBAC/ HTTP/1.1" 200 4360
+[15/Mar/2019 16:58:37] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[15/Mar/2019 16:58:38] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[15/Mar/2019 16:58:38] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[15/Mar/2019 16:58:38] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:58:39] "GET /semf/RBAC/area/ HTTP/1.1" 200 5000
+[15/Mar/2019 16:58:39] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:58:40] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:58:41] "GET /semf/ HTTP/1.1" 200 15087
+[15/Mar/2019 16:58:41] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[15/Mar/2019 16:58:41] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:58:43] "GET /semf/auth/user/ HTTP/1.1" 200 7952
+[15/Mar/2019 16:58:43] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:58:43] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[15/Mar/2019 16:58:43] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[15/Mar/2019 16:58:43] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[15/Mar/2019 16:58:43] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:58:47] "POST /semf/auth/user/ HTTP/1.1" 200 3857
+[15/Mar/2019 16:58:47] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:58:48] "POST /semf/auth/user/ HTTP/1.1" 302 0
+[15/Mar/2019 16:58:48] "GET /semf/auth/user/ HTTP/1.1" 200 7220
+[15/Mar/2019 16:58:48] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[15/Mar/2019 16:58:48] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:58:59] "GET / HTTP/1.1" 302 0
+[15/Mar/2019 16:58:59] "GET /user/ HTTP/1.1" 200 7256
+[15/Mar/2019 16:58:59] "GET /user/main/ HTTP/1.1" 200 3448
+[15/Mar/2019 16:59:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 16:59:00] "GET /favicon.ico HTTP/1.1" 200 330
+[15/Mar/2019 16:59:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:00:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:00:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:01:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:01:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:02:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:02:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:03:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:03:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:04:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:04:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:05:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:05:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:06:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:06:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:07:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:07:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:08:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:08:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:09:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:09:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:10:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:10:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:11:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:11:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:12:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:12:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:13:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:13:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:14:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:14:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:15:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:15:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:16:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:16:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:17:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:17:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:18:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:18:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:19:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:19:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:20:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:20:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:21:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:21:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:22:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:22:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:23:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:23:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:24:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:24:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:25:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:25:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:26:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:26:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:27:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:27:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:28:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:28:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:29:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:29:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:30:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:30:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:31:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:31:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:32:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:32:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:33:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:33:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:34:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:34:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:35:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:35:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:36:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:36:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:37:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:37:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:38:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:38:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:39:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:39:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:40:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:40:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:41:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:41:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:42:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:42:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:43:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:43:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:44:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:44:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:45:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:45:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:46:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:46:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:47:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:47:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:48:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:48:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:49:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:49:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:50:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:50:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:51:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:51:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:52:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:52:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:53:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:53:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:54:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:54:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:55:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:55:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:56:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:56:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:57:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:57:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:58:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:58:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:59:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 17:59:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:00:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:00:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:01:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:01:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:02:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:02:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:03:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:03:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:04:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:04:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:05:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:05:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:06:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:06:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:07:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:07:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:08:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:08:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:09:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:09:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:10:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:10:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:11:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:11:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:12:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:12:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:13:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:13:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:14:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:14:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:15:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:15:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:16:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:16:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:17:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:17:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:18:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:18:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:19:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:19:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:20:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:20:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:21:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:21:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:22:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:22:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:23:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:23:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:24:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:24:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:25:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:25:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:26:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:26:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:27:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:27:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:28:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:28:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:29:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:29:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:30:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:30:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:31:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:31:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:32:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:32:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:33:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:33:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:34:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:34:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:35:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:35:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:36:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:36:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:37:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:37:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:38:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:38:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:39:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:39:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:40:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:40:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:41:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:41:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:42:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:42:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:43:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:43:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:44:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:44:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:45:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:45:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:46:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:46:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:47:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:47:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:48:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:48:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:49:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:49:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:50:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:50:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:50:57] "GET /vuln/cnvd/ HTTP/1.1" 200 4515
+[15/Mar/2019 18:50:57] "GET /static/lib/layui/layui.js HTTP/1.1" 200 6542
+[15/Mar/2019 18:50:57] "GET /static/jquery/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[15/Mar/2019 18:50:57] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[15/Mar/2019 18:50:57] "GET /static/js/xadmin.js HTTP/1.1" 200 5668
+[15/Mar/2019 18:50:57] "GET /static/lib/layui/css/layui.css HTTP/1.1" 200 60227
+[15/Mar/2019 18:50:57] "GET /static/lib/layui/font/iconfont.woff?v=226_rc2 HTTP/1.1" 200 26840
+[15/Mar/2019 18:50:58] "POST /vuln/cnvd/list/ HTTP/1.1" 200 3522
+[15/Mar/2019 18:50:58] "GET /vuln/user/ HTTP/1.1" 200 6257
+[15/Mar/2019 18:50:58] "POST /vuln/user/list/ HTTP/1.1" 200 70
+[15/Mar/2019 18:51:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:51:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:52:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:52:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:53:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:53:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:54:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:54:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:55:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:55:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:56:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:56:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:57:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:57:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:58:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:58:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:59:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 18:59:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:00:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:00:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:01:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:01:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:02:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:02:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:03:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:03:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:04:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:04:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:05:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:05:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:06:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:06:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:07:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:07:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:08:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:08:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:09:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:09:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:10:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:10:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:11:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:11:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:12:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:12:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:13:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:13:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:14:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:14:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:15:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:15:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:16:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:16:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:17:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:17:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:18:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:18:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:19:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:19:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:20:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:20:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:21:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:21:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:22:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:22:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:23:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:23:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:24:00] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:24:08] "GET /notice/count/ HTTP/1.1" 200 19
+[15/Mar/2019 19:25:00] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:17:34] "GET / HTTP/1.1" 302 0
+[16/Mar/2019 10:17:34] "GET /view/ HTTP/1.1" 200 2189
+[16/Mar/2019 10:17:34] "GET /static/css/font.css HTTP/1.1" 200 505
+[16/Mar/2019 10:17:34] "GET /static/css/xadmin.css HTTP/1.1" 200 10224
+[16/Mar/2019 10:17:34] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[16/Mar/2019 10:17:34] "GET /static/lib/layui/css/layui.css HTTP/1.1" 200 60227
+[16/Mar/2019 10:17:34] "GET /static/images/aiwrap.png HTTP/1.1" 200 3032
+[16/Mar/2019 10:17:34] "GET /static/images/bg.png HTTP/1.1" 200 28211
+[16/Mar/2019 10:17:34] "GET /static/lib/layui/lay/modules/form.js HTTP/1.1" 200 7925
+[16/Mar/2019 10:17:34] "GET /favicon.ico HTTP/1.1" 302 0
+[16/Mar/2019 10:17:34] "GET /static/lib/layui/lay/modules/layer.js HTTP/1.1" 200 22063
+[16/Mar/2019 10:17:34] "GET /static/lib/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14425
+[16/Mar/2019 10:17:34] "GET /static/lib/layui/lay/modules/element.js HTTP/1.1" 200 7264
+[16/Mar/2019 10:17:34] "GET /view/ HTTP/1.1" 200 2189
+[16/Mar/2019 10:17:39] "POST /view/ HTTP/1.1" 302 0
+[16/Mar/2019 10:17:39] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 10:17:40] "GET /static/fonts/iconfont.woff HTTP/1.1" 200 30200
+[16/Mar/2019 10:17:40] "GET /static/lib/layui/font/iconfont.woff?v=226_rc2 HTTP/1.1" 200 26840
+[16/Mar/2019 10:17:40] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:17:40] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 10:17:40] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:17:42] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[16/Mar/2019 10:17:42] "GET /static/lib/layui/lay/modules/table.js HTTP/1.1" 200 20828
+[16/Mar/2019 10:17:42] "GET /static/lib/layui/lay/modules/laytpl.js HTTP/1.1" 200 1836
+[16/Mar/2019 10:17:42] "GET /static/lib/layui/lay/modules/laypage.js HTTP/1.1" 200 4319
+[16/Mar/2019 10:17:42] "POST /manage/userrequest/list/ HTTP/1.1" 200 82
+[16/Mar/2019 10:17:43] "GET /manage/user/ HTTP/1.1" 200 5964
+[16/Mar/2019 10:17:43] "POST /manage/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:18:40] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:19:40] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:20:40] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:21:40] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:22:40] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:23:40] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:24:50] "GET / HTTP/1.1" 302 0
+[16/Mar/2019 10:24:50] "GET /view/ HTTP/1.1" 200 2189
+[16/Mar/2019 10:24:50] "GET /favicon.ico HTTP/1.1" 302 0
+[16/Mar/2019 10:24:50] "GET /view/ HTTP/1.1" 200 2189
+[16/Mar/2019 10:24:55] "POST /view/ HTTP/1.1" 302 0
+[16/Mar/2019 10:24:55] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 10:24:55] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 10:24:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:24:55] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:25:56] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:26:15] "GET /semf/RBAC/userrequest/6/change/ HTTP/1.1" 302 0
+[16/Mar/2019 10:26:15] "GET /semf/ HTTP/1.1" 200 15124
+[16/Mar/2019 10:26:15] "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+[16/Mar/2019 10:26:15] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[16/Mar/2019 10:26:15] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+[16/Mar/2019 10:26:15] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[16/Mar/2019 10:26:15] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[16/Mar/2019 10:26:15] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[16/Mar/2019 10:26:15] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[16/Mar/2019 10:26:15] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[16/Mar/2019 10:26:15] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[16/Mar/2019 10:26:15] "GET /static/admin/img/icon-alert.svg HTTP/1.1" 200 504
+[16/Mar/2019 10:26:15] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[16/Mar/2019 10:26:15] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:26:18] "GET /semf/SeMFSetting/scanner/ HTTP/1.1" 200 3272
+[16/Mar/2019 10:26:19] "GET /static/admin/js/core.js HTTP/1.1" 200 7134
+[16/Mar/2019 10:26:19] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[16/Mar/2019 10:26:19] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6897
+[16/Mar/2019 10:26:19] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[16/Mar/2019 10:26:19] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:26:19] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[16/Mar/2019 10:26:19] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8729
+[16/Mar/2019 10:26:19] "GET /static/admin/js/actions.js HTTP/1.1" 200 6502
+[16/Mar/2019 10:26:19] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[16/Mar/2019 10:26:19] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[16/Mar/2019 10:26:19] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[16/Mar/2019 10:26:19] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:26:26] "GET /semf/SeMFSetting/scanner/add/ HTTP/1.1" 200 8883
+[16/Mar/2019 10:26:26] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[16/Mar/2019 10:26:26] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:26:26] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[16/Mar/2019 10:26:26] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[16/Mar/2019 10:26:26] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[16/Mar/2019 10:26:26] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:27:36] "POST /semf/SeMFSetting/scanner/add/ HTTP/1.1" 302 0
+[16/Mar/2019 10:27:36] "GET /semf/SeMFSetting/scanner/ HTTP/1.1" 200 4590
+[16/Mar/2019 10:27:36] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:27:36] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[16/Mar/2019 10:27:36] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:27:38] "GET /semf/SeMFSetting/scanner/1/change/ HTTP/1.1" 200 9537
+[16/Mar/2019 10:27:38] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:27:38] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:27:43] "GET /semf/AssetManage/assettype/add/?_to_field=id&_popup=1 HTTP/1.1" 200 5428
+[16/Mar/2019 10:27:43] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:27:44] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:27:49] "GET /semf/SeMFSetting/scanner/ HTTP/1.1" 200 4417
+[16/Mar/2019 10:27:49] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:27:50] "GET /semf/SeMFSetting/scanner/add/ HTTP/1.1" 200 8883
+[16/Mar/2019 10:27:50] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:27:51] "GET /semf/SeMFSetting/scanner/ HTTP/1.1" 200 4417
+[16/Mar/2019 10:27:51] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:27:54] "GET / HTTP/1.1" 302 0
+[16/Mar/2019 10:27:54] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 10:27:54] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:27:54] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 10:27:54] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:27:56] "GET /vuln/user/ HTTP/1.1" 200 6257
+[16/Mar/2019 10:27:56] "POST /vuln/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:27:57] "GET /vuln/cnvd/ HTTP/1.1" 200 4515
+[16/Mar/2019 10:27:57] "POST /vuln/cnvd/list/ HTTP/1.1" 200 3522
+[16/Mar/2019 10:28:00] "GET /chart/ HTTP/1.1" 200 6104
+[16/Mar/2019 10:28:00] "GET /static/js/echarts.common.min.js HTTP/1.1" 200 452876
+[16/Mar/2019 10:28:00] "GET /chart/getdatemonth/ HTTP/1.1" 200 772
+[16/Mar/2019 10:28:01] "GET /article/user/ HTTP/1.1" 200 6815
+[16/Mar/2019 10:28:01] "POST /article/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:28:02] "GET /manage/user/ HTTP/1.1" 200 5964
+[16/Mar/2019 10:28:02] "POST /manage/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:28:03] "GET /manage/userrequest/ HTTP/1.1" 200 6547
+[16/Mar/2019 10:28:03] "POST /manage/userrequest/list/ HTTP/1.1" 200 82
+[16/Mar/2019 10:28:04] "GET /task/request/ HTTP/1.1" 200 4512
+[16/Mar/2019 10:28:04] "POST /task/request/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:28:05] "GET /task/user/ HTTP/1.1" 200 6341
+[16/Mar/2019 10:28:05] "POST /task/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:28:08] "GET /mapped/ HTTP/1.1" 200 5295
+[16/Mar/2019 10:28:08] "POST /mapped/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:28:10] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 10:28:10] "POST /asset/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:28:26] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 10:28:27] "POST /asset/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:28:54] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:29:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:30:17] "GET /semf HTTP/1.1" 301 0
+[16/Mar/2019 10:30:17] "GET /semf/ HTTP/1.1" 200 14954
+[16/Mar/2019 10:30:18] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:30:35] "GET /semf/SeMFSetting/scannerpolicies/ HTTP/1.1" 200 3333
+[16/Mar/2019 10:30:36] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:30:36] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:30:38] "GET /semf/ HTTP/1.1" 200 14954
+[16/Mar/2019 10:30:38] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:30:41] "GET /semf/SeMFSetting/files/ HTTP/1.1" 200 3258
+[16/Mar/2019 10:30:41] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:30:41] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:30:42] "GET /semf/ HTTP/1.1" 200 14954
+[16/Mar/2019 10:30:42] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:30:43] "GET /semf/SeMFSetting/scannerpolicies/ HTTP/1.1" 200 3333
+[16/Mar/2019 10:30:43] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:30:43] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:30:48] "GET /semf/SeMFSetting/scannerpolicies/add/ HTTP/1.1" 200 6061
+[16/Mar/2019 10:30:48] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:30:48] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:30:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:31:21] "POST /semf/SeMFSetting/scannerpolicies/add/ HTTP/1.1" 302 0
+[16/Mar/2019 10:31:22] "GET /semf/SeMFSetting/scannerpolicies/ HTTP/1.1" 200 4702
+[16/Mar/2019 10:31:22] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:31:22] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:31:26] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 10:31:26] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:31:26] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 10:31:26] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:31:32] "GET /task/user/ HTTP/1.1" 200 6341
+[16/Mar/2019 10:31:33] "POST /task/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:31:34] "GET /static/lib/layui/css/modules/layer/default/loading-1.gif HTTP/1.1" 200 701
+[16/Mar/2019 10:31:34] "GET /static/lib/layui/css/modules/layer/default/icon.png HTTP/1.1" 200 11493
+[16/Mar/2019 10:31:34] "GET /task/user/nessus/scan/ HTTP/1.1" 200 2682
+[16/Mar/2019 10:31:59] "POST /task/user/nessus/scan/ HTTP/1.1" 200 3005
+[16/Mar/2019 10:32:08] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 10:32:08] "POST /asset/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:32:12] "GET /asset/user/create/ HTTP/1.1" 200 4541
+[16/Mar/2019 10:32:12] "GET /static/lib/layui/lay/modules/layedit.js HTTP/1.1" 200 12635
+[16/Mar/2019 10:32:12] "GET /static/lib/layui/lay/modules/laydate.js HTTP/1.1" 200 27337
+[16/Mar/2019 10:32:12] "GET /static/lib/layui/css/modules/laydate/default/laydate.css?v=5.0.9 HTTP/1.1" 200 7537
+[16/Mar/2019 10:32:26] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:32:45] "POST /asset/user/create/ HTTP/1.1" 200 4873
+[16/Mar/2019 10:32:52] "GET /task/request/ HTTP/1.1" 200 4512
+[16/Mar/2019 10:32:53] "POST /task/request/list/ HTTP/1.1" 200 70
+Internal Server Error: /task/user/nessus/scan/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/urllib3/response.py", line 302, in _error_catcher
+    yield
+  File "/usr/local/lib/python3.6/site-packages/urllib3/response.py", line 384, in read
+    data = self._fp.read(amt)
+  File "/usr/local/lib/python3.6/http/client.py", line 449, in read
+    n = self.readinto(b)
+  File "/usr/local/lib/python3.6/http/client.py", line 493, in readinto
+    n = self.fp.readinto(b)
+  File "/usr/local/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/local/lib/python3.6/ssl.py", line 1009, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/local/lib/python3.6/ssl.py", line 871, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/local/lib/python3.6/ssl.py", line 631, in read
+    v = self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/requests/models.py", line 745, in generate
+    for chunk in self.raw.stream(chunk_size, decode_content=True):
+  File "/usr/local/lib/python3.6/site-packages/urllib3/response.py", line 436, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "/usr/local/lib/python3.6/site-packages/urllib3/response.py", line 401, in read
+    raise IncompleteRead(self._fp_bytes_read, self.length_remaining)
+  File "/usr/local/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/usr/local/lib/python3.6/site-packages/urllib3/response.py", line 320, in _error_catcher
+    raise ProtocolError('Connection broken: %r' % e, e)
+urllib3.exceptions.ProtocolError: ("Connection broken: ConnectionResetError(104, 'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/views/Scantasks.py", line 128, in ScanAll
+    scan_id = nessus.add_nessus_scan(task_name,task_targetinfo,task_target,task_scanner.id,scanner_police.policies_name)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/Functions/nessus.py", line 25, in add_nessus_scan
+    scan = Nessus.add(name,introduce,target,pid,scanner_id)
+  File "/root/SeMF/SecurityManageFramwork/SeMFSetting/Functions/Nessus.py", line 88, in add
+    data = connect(scanner_id,'POST', '/scans', scan)
+  File "/root/SeMF/SecurityManageFramwork/SeMFSetting/Functions/Nessus.py", line 40, in connect
+    r = requests.post(build_url(url,resource), data=data, headers=headers, verify=verify)
+  File "/usr/local/lib/python3.6/site-packages/requests/api.py", line 112, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/requests/sessions.py", line 658, in send
+    r.content
+  File "/usr/local/lib/python3.6/site-packages/requests/models.py", line 823, in content
+    self._content = bytes().join(self.iter_content(CONTENT_CHUNK_SIZE)) or bytes()
+  File "/usr/local/lib/python3.6/site-packages/requests/models.py", line 748, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: ("Connection broken: ConnectionResetError(104, 'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by peer'))
+[16/Mar/2019 10:32:58] "POST /task/user/nessus/scan/ HTTP/1.1" 500 183573
+[16/Mar/2019 10:33:16] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 10:33:17] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 10:33:17] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:33:17] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:33:21] "GET /task/user/ HTTP/1.1" 200 6341
+[16/Mar/2019 10:33:21] "POST /task/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:33:23] "GET /task/manage/sync/ HTTP/1.1" 200 3260
+[16/Mar/2019 10:33:29] "GET /task/user/nessus/scan/ HTTP/1.1" 200 2682
+Internal Server Error: /task/user/nessus/scan/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/views/Scantasks.py", line 128, in ScanAll
+    scan_id = nessus.add_nessus_scan(task_name,task_targetinfo,task_target,task_scanner.id,scanner_police.policies_name)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/Functions/nessus.py", line 25, in add_nessus_scan
+    scan = Nessus.add(name,introduce,target,pid,scanner_id)
+  File "/root/SeMF/SecurityManageFramwork/SeMFSetting/Functions/Nessus.py", line 89, in add
+    return data['scan']
+KeyError: 'scan'
+[16/Mar/2019 10:33:41] "POST /task/user/nessus/scan/ HTTP/1.1" 500 88226
+[16/Mar/2019 10:34:13] "GET /task/request/ HTTP/1.1" 200 4512
+[16/Mar/2019 10:34:13] "POST /task/request/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:34:15] "GET /chart/ HTTP/1.1" 200 6210
+[16/Mar/2019 10:34:16] "GET /chart/assettype/ HTTP/1.1" 200 92
+Internal Server Error: /chart/getdatemonth/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/SeMF/SecurityManageFramwork/ChartManage/views.py", line 141, in getdatemonth
+    res_data[item[argu].strftime('%Y-%m-%d')]=item['number']
+AttributeError: 'str' object has no attribute 'strftime'
+[16/Mar/2019 10:34:16] "GET /chart/getdatemonth/ HTTP/1.1" 500 15067
+[16/Mar/2019 10:34:17] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:34:17] "GET /article/user/ HTTP/1.1" 200 6815
+[16/Mar/2019 10:34:18] "POST /article/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:34:20] "GET /mapped/ HTTP/1.1" 200 5295
+[16/Mar/2019 10:34:21] "POST /mapped/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:34:26] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 10:34:26] "POST /asset/user/list/ HTTP/1.1" 200 358
+[16/Mar/2019 10:34:35] "POST /asset/user/task/ HTTP/1.1" 200 67
+[16/Mar/2019 10:34:37] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 10:34:37] "POST /asset/user/list/ HTTP/1.1" 200 358
+[16/Mar/2019 10:34:57] "GET /task/user/scantaskchoice/;01201903161;/ HTTP/1.1" 200 3021
+Internal Server Error: /task/user/scantaskchoice/post/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/urllib3/response.py", line 302, in _error_catcher
+    yield
+  File "/usr/local/lib/python3.6/site-packages/urllib3/response.py", line 384, in read
+    data = self._fp.read(amt)
+  File "/usr/local/lib/python3.6/http/client.py", line 449, in read
+    n = self.readinto(b)
+  File "/usr/local/lib/python3.6/http/client.py", line 493, in readinto
+    n = self.fp.readinto(b)
+  File "/usr/local/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/local/lib/python3.6/ssl.py", line 1009, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/local/lib/python3.6/ssl.py", line 871, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/local/lib/python3.6/ssl.py", line 631, in read
+    v = self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/requests/models.py", line 745, in generate
+    for chunk in self.raw.stream(chunk_size, decode_content=True):
+  File "/usr/local/lib/python3.6/site-packages/urllib3/response.py", line 436, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "/usr/local/lib/python3.6/site-packages/urllib3/response.py", line 401, in read
+    raise IncompleteRead(self._fp_bytes_read, self.length_remaining)
+  File "/usr/local/lib/python3.6/contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/usr/local/lib/python3.6/site-packages/urllib3/response.py", line 320, in _error_catcher
+    raise ProtocolError('Connection broken: %r' % e, e)
+urllib3.exceptions.ProtocolError: ("Connection broken: ConnectionResetError(104, 'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/views/Scantasks.py", line 52, in scan_task
+    scan_id = nessus.add_nessus_scan(task_name,task_targetinfo,task_target,task_scanner.id,scanner_police.policies_name)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/Functions/nessus.py", line 25, in add_nessus_scan
+    scan = Nessus.add(name,introduce,target,pid,scanner_id)
+  File "/root/SeMF/SecurityManageFramwork/SeMFSetting/Functions/Nessus.py", line 88, in add
+    data = connect(scanner_id,'POST', '/scans', scan)
+  File "/root/SeMF/SecurityManageFramwork/SeMFSetting/Functions/Nessus.py", line 40, in connect
+    r = requests.post(build_url(url,resource), data=data, headers=headers, verify=verify)
+  File "/usr/local/lib/python3.6/site-packages/requests/api.py", line 112, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/requests/sessions.py", line 658, in send
+    r.content
+  File "/usr/local/lib/python3.6/site-packages/requests/models.py", line 823, in content
+    self._content = bytes().join(self.iter_content(CONTENT_CHUNK_SIZE)) or bytes()
+  File "/usr/local/lib/python3.6/site-packages/requests/models.py", line 748, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: ("Connection broken: ConnectionResetError(104, 'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by peer'))
+[16/Mar/2019 10:35:04] "POST /task/user/scantaskchoice/post/ HTTP/1.1" 500 183776
+[16/Mar/2019 10:35:13] "POST /asset/user/delete/ HTTP/1.1" 200 37
+[16/Mar/2019 10:35:15] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 10:35:16] "POST /asset/user/list/ HTTP/1.1" 200 358
+[16/Mar/2019 10:35:17] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:35:22] "POST /asset/user/delete/ HTTP/1.1" 200 37
+[16/Mar/2019 10:35:24] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 10:35:24] "POST /asset/user/list/ HTTP/1.1" 200 358
+[16/Mar/2019 10:35:26] "GET /asset/request/ HTTP/1.1" 200 6743
+[16/Mar/2019 10:35:26] "POST /asset/request/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:35:27] "GET /asset/handover/ HTTP/1.1" 200 4844
+[16/Mar/2019 10:35:27] "POST /asset/handover/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:36:17] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:36:43] "GET /semf/ HTTP/1.1" 200 15007
+[16/Mar/2019 10:36:43] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:36:55] "GET /semf/AssetManage/asset/ HTTP/1.1" 200 4403
+[16/Mar/2019 10:36:55] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:36:55] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:36:58] "POST /semf/AssetManage/asset/ HTTP/1.1" 200 3463
+[16/Mar/2019 10:36:58] "GET /static/admin/js/cancel.js HTTP/1.1" 200 204
+[16/Mar/2019 10:36:58] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:36:59] "POST /semf/AssetManage/asset/ HTTP/1.1" 302 0
+[16/Mar/2019 10:36:59] "GET /semf/AssetManage/asset/ HTTP/1.1" 200 3377
+[16/Mar/2019 10:36:59] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 10:36:59] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:37:02] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 10:37:02] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:37:02] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 10:37:02] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:37:04] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 10:37:04] "POST /asset/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:37:06] "GET /asset/user/create/ HTTP/1.1" 200 4541
+[16/Mar/2019 10:37:32] "POST /asset/user/create/ HTTP/1.1" 200 4869
+[16/Mar/2019 10:37:40] "GET /asset/request/ HTTP/1.1" 200 6743
+[16/Mar/2019 10:37:40] "POST /asset/request/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:37:43] "GET /asset/handover/ HTTP/1.1" 200 4844
+[16/Mar/2019 10:37:43] "POST /asset/handover/list/ HTTP/1.1" 200 70
+[16/Mar/2019 10:37:48] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 10:37:48] "GET /static/css/font.css HTTP/1.1" 200 505
+[16/Mar/2019 10:37:48] "GET /static/css/xadmin.css HTTP/1.1" 200 10224
+[16/Mar/2019 10:37:48] "GET /static/lib/layui/layui.js HTTP/1.1" 200 6542
+[16/Mar/2019 10:37:48] "GET /static/js/xadmin.js HTTP/1.1" 200 5668
+[16/Mar/2019 10:37:48] "GET /static/jquery/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[16/Mar/2019 10:37:48] "GET /static/lib/layui/css/layui.css HTTP/1.1" 200 60227
+[16/Mar/2019 10:37:48] "GET /static/fonts/iconfont.woff HTTP/1.1" 200 30200
+[16/Mar/2019 10:37:48] "GET /static/css/xadmin.css HTTP/1.1" 200 10224
+[16/Mar/2019 10:37:48] "GET /static/lib/layui/font/iconfont.woff?v=226_rc2 HTTP/1.1" 200 26840
+[16/Mar/2019 10:37:48] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 10:37:48] "GET /static/lib/layui/lay/modules/form.js HTTP/1.1" 200 7925
+[16/Mar/2019 10:37:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:37:48] "GET /static/lib/layui/lay/modules/layer.js HTTP/1.1" 200 22063
+[16/Mar/2019 10:37:48] "GET /static/css/font.css HTTP/1.1" 200 505
+[16/Mar/2019 10:37:48] "GET /static/css/xadmin.css HTTP/1.1" 200 10224
+[16/Mar/2019 10:37:48] "GET /static/lib/layui/layui.js HTTP/1.1" 200 6542
+[16/Mar/2019 10:37:48] "GET /static/js/xadmin.js HTTP/1.1" 200 5668
+[16/Mar/2019 10:37:48] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[16/Mar/2019 10:37:48] "GET /static/jquery/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[16/Mar/2019 10:37:48] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[16/Mar/2019 10:37:48] "GET /static/lib/layui/css/layui.css HTTP/1.1" 200 60227
+[16/Mar/2019 10:37:49] "GET /static/lib/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14425
+[16/Mar/2019 10:37:49] "GET /static/lib/layui/font/iconfont.woff?v=226_rc2 HTTP/1.1" 200 26840
+[16/Mar/2019 10:37:49] "GET /static/lib/layui/lay/modules/element.js HTTP/1.1" 200 7264
+[16/Mar/2019 10:37:49] "GET /static/lib/layui/lay/modules/form.js HTTP/1.1" 200 7925
+[16/Mar/2019 10:37:49] "GET /static/lib/layui/lay/modules/layer.js HTTP/1.1" 200 22063
+[16/Mar/2019 10:37:49] "GET /static/lib/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14425
+[16/Mar/2019 10:37:49] "GET /static/lib/layui/lay/modules/element.js HTTP/1.1" 200 7264
+[16/Mar/2019 10:37:49] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:37:50] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 10:37:50] "POST /asset/user/list/ HTTP/1.1" 200 356
+[16/Mar/2019 10:37:52] "GET /asset/user/details/01201903161/ HTTP/1.1" 200 16434
+[16/Mar/2019 10:37:53] "GET /asset/user/port/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 10:37:53] "GET /asset/user/file/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 10:37:53] "GET /asset/user/assetconnect/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 10:37:53] "GET /asset/user/vuln/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 10:37:53] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:38:07] "GET /task/user/scantaskchoice/;01201903161;/ HTTP/1.1" 200 3021
+Internal Server Error: /task/user/scantaskchoice/post/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/views/Scantasks.py", line 52, in scan_task
+    scan_id = nessus.add_nessus_scan(task_name,task_targetinfo,task_target,task_scanner.id,scanner_police.policies_name)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/Functions/nessus.py", line 25, in add_nessus_scan
+    scan = Nessus.add(name,introduce,target,pid,scanner_id)
+  File "/root/SeMF/SecurityManageFramwork/SeMFSetting/Functions/Nessus.py", line 89, in add
+    return data['scan']
+KeyError: 'scan'
+[16/Mar/2019 10:38:15] "POST /task/user/scantaskchoice/post/ HTTP/1.1" 500 88451
+[16/Mar/2019 10:38:49] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:39:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:40:48] "GET /notice/count/ HTTP/1.1" 200 19
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 15, 2019 - 16:45:21
+Django version 2.0.4, using settings 'SeMF.settings'
+Starting development server at http://0:8000/
+Quit the server with CONTROL-C.
+{'error': 'API is not available'}
+{'error': 'API is not available'}
+[16/Mar/2019 10:41:19] "GET /task/user/scantaskchoice/;01201903161;/ HTTP/1.1" 200 3021
+Internal Server Error: /task/user/scantaskchoice/post/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/views/Scantasks.py", line 52, in scan_task
+    scan_id = nessus.add_nessus_scan(task_name,task_targetinfo,task_target,task_scanner.id,scanner_police.policies_name)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/Functions/nessus.py", line 25, in add_nessus_scan
+    scan = Nessus.add(name,introduce,target,pid,scanner_id)
+  File "/root/SeMF/SecurityManageFramwork/SeMFSetting/Functions/Nessus.py", line 89, in add
+    return data[scan]
+TypeError: unhashable type: 'dict'
+[16/Mar/2019 10:41:26] "POST /task/user/scantaskchoice/post/ HTTP/1.1" 500 88527
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 16, 2019 - 10:41:16
+Django version 2.0.4, using settings 'SeMF.settings'
+Starting development server at http://0:8000/
+Quit the server with CONTROL-C.
+{'error': 'API is not available'}
+[16/Mar/2019 10:41:47] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 10:41:47] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:41:47] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 10:41:47] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 10:41:49] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 10:41:49] "POST /asset/user/list/ HTTP/1.1" 200 356
+[16/Mar/2019 10:41:52] "GET /task/user/scantaskchoice/;01201903161;/ HTTP/1.1" 200 3021
+Internal Server Error: /task/user/scantaskchoice/post/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/views/Scantasks.py", line 52, in scan_task
+    scan_id = nessus.add_nessus_scan(task_name,task_targetinfo,task_target,task_scanner.id,scanner_police.policies_name)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/Functions/nessus.py", line 25, in add_nessus_scan
+    scan = Nessus.add(name,introduce,target,pid,scanner_id)
+  File "/root/SeMF/SecurityManageFramwork/SeMFSetting/Functions/Nessus.py", line 89, in add
+    return data['scan']
+KeyError: 'scan'
+[16/Mar/2019 10:41:57] "POST /task/user/scantaskchoice/post/ HTTP/1.1" 500 88451
+[16/Mar/2019 10:42:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:43:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:44:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:45:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:46:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:47:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:48:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:49:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:50:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:51:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:52:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:53:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:54:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:55:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:56:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:57:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:58:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 10:59:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:00:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:01:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:02:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:03:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:04:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:05:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:06:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:07:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:08:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:09:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:10:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:11:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:12:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:13:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:14:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:15:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:16:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:17:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:18:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:19:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:20:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:21:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:22:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:23:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:24:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:25:10] "GET /task/user/scantaskchoice/;01201903161;/ HTTP/1.1" 200 3021
+Internal Server Error: /task/user/scantaskchoice/post/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/views/Scantasks.py", line 52, in scan_task
+    scan_id = nessus.add_nessus_scan(task_name,task_targetinfo,task_target,task_scanner.id,scanner_police.policies_name)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/Functions/nessus.py", line 25, in add_nessus_scan
+    scan = Nessus.add(name,introduce,target,pid,scanner_id)
+  File "/root/SeMF/SecurityManageFramwork/SeMFSetting/Functions/Nessus.py", line 89, in add
+    return data['scan']
+KeyError: 'scan'
+[16/Mar/2019 11:25:15] "POST /task/user/scantaskchoice/post/ HTTP/1.1" 500 88451
+[16/Mar/2019 11:25:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:26:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:27:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:28:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:29:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:30:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:31:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:32:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:33:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:34:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:35:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:36:48] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 11:37:38] "GET /user/ HTTP/1.1" 302 0
+[16/Mar/2019 11:37:39] "GET /view/?next=/user/ HTTP/1.1" 200 2189
+[16/Mar/2019 11:37:39] "GET /favicon.ico HTTP/1.1" 302 0
+[16/Mar/2019 11:37:39] "GET /view/ HTTP/1.1" 200 2189
+[16/Mar/2019 15:40:18] "GET / HTTP/1.1" 302 0
+[16/Mar/2019 15:40:18] "GET /view/ HTTP/1.1" 200 2189
+[16/Mar/2019 15:40:18] "GET /static/css/font.css HTTP/1.1" 200 505
+[16/Mar/2019 15:40:18] "GET /static/css/xadmin.css HTTP/1.1" 200 10224
+[16/Mar/2019 15:40:18] "GET /static/js/xadmin.js HTTP/1.1" 200 5668
+[16/Mar/2019 15:40:18] "GET /static/lib/layui/layui.js HTTP/1.1" 200 6542
+[16/Mar/2019 15:40:18] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 121200
+[16/Mar/2019 15:40:18] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 37045
+[16/Mar/2019 15:40:18] "GET /static/jquery/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[16/Mar/2019 15:40:18] "GET /static/lib/layui/css/layui.css HTTP/1.1" 200 60227
+[16/Mar/2019 15:40:18] "GET /static/images/bg.png HTTP/1.1" 200 28211
+[16/Mar/2019 15:40:18] "GET /static/images/aiwrap.png HTTP/1.1" 200 3032
+[16/Mar/2019 15:40:18] "GET /static/lib/layui/lay/modules/form.js HTTP/1.1" 200 7925
+[16/Mar/2019 15:40:18] "GET /favicon.ico HTTP/1.1" 302 0
+[16/Mar/2019 15:40:18] "GET /static/lib/layui/lay/modules/layer.js HTTP/1.1" 200 22063
+[16/Mar/2019 15:40:18] "GET /static/lib/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14425
+[16/Mar/2019 15:40:18] "GET /view/ HTTP/1.1" 200 2189
+[16/Mar/2019 15:40:18] "GET /static/lib/layui/lay/modules/element.js HTTP/1.1" 200 7264
+[16/Mar/2019 15:40:23] "POST /view/ HTTP/1.1" 302 0
+[16/Mar/2019 15:40:23] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 15:40:23] "GET /static/fonts/iconfont.woff HTTP/1.1" 200 30200
+[16/Mar/2019 15:40:23] "GET /static/lib/layui/font/iconfont.woff?v=226_rc2 HTTP/1.1" 200 26840
+[16/Mar/2019 15:40:23] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 15:40:23] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:40:23] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:40:33] "GET /semf HTTP/1.1" 301 0
+[16/Mar/2019 15:40:33] "GET /semf/ HTTP/1.1" 200 14996
+[16/Mar/2019 15:40:33] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+[16/Mar/2019 15:40:33] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[16/Mar/2019 15:40:33] "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+[16/Mar/2019 15:40:33] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[16/Mar/2019 15:40:33] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[16/Mar/2019 15:40:33] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[16/Mar/2019 15:40:33] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[16/Mar/2019 15:40:33] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[16/Mar/2019 15:40:33] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[16/Mar/2019 15:40:33] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[16/Mar/2019 15:40:33] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:40:37] "GET /semf/SeMFSetting/scanner/ HTTP/1.1" 200 4417
+[16/Mar/2019 15:40:37] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[16/Mar/2019 15:40:37] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[16/Mar/2019 15:40:37] "GET /static/admin/js/core.js HTTP/1.1" 200 7134
+[16/Mar/2019 15:40:37] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6897
+[16/Mar/2019 15:40:37] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:40:37] "GET /static/admin/js/actions.js HTTP/1.1" 200 6502
+[16/Mar/2019 15:40:37] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8729
+[16/Mar/2019 15:40:37] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[16/Mar/2019 15:40:37] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[16/Mar/2019 15:40:37] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[16/Mar/2019 15:40:37] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[16/Mar/2019 15:40:37] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:40:39] "GET /semf/ HTTP/1.1" 200 14996
+[16/Mar/2019 15:40:39] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:40:39] "GET /semf/SeMFSetting/scanner/ HTTP/1.1" 200 4417
+[16/Mar/2019 15:40:39] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:40:40] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:40:44] "POST /semf/SeMFSetting/scanner/ HTTP/1.1" 200 4409
+[16/Mar/2019 15:40:44] "GET /static/admin/js/cancel.js HTTP/1.1" 200 204
+[16/Mar/2019 15:40:44] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:40:45] "POST /semf/SeMFSetting/scanner/ HTTP/1.1" 302 0
+[16/Mar/2019 15:40:45] "GET /semf/SeMFSetting/scanner/ HTTP/1.1" 200 3393
+[16/Mar/2019 15:40:45] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:40:45] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[16/Mar/2019 15:40:46] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:40:50] "GET /semf/ HTTP/1.1" 200 14982
+[16/Mar/2019 15:40:50] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:40:53] "GET /semf/SeMFSetting/scannerpolicies/ HTTP/1.1" 200 3333
+[16/Mar/2019 15:40:53] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:40:53] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:40:55] "GET /semf/ HTTP/1.1" 200 14982
+[16/Mar/2019 15:40:55] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:42:25] "GET /semf/ HTTP/1.1" 200 14982
+[16/Mar/2019 15:42:25] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:42:28] "GET /semf/SeMFSetting/files/ HTTP/1.1" 200 3258
+[16/Mar/2019 15:42:28] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:42:28] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:42:29] "GET /semf/ HTTP/1.1" 200 14982
+[16/Mar/2019 15:42:29] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:42:31] "GET /semf/SeMFSetting/scanner/add/ HTTP/1.1" 200 8883
+[16/Mar/2019 15:42:31] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[16/Mar/2019 15:42:31] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:42:31] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[16/Mar/2019 15:42:32] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[16/Mar/2019 15:42:32] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[16/Mar/2019 15:42:32] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:43:20] "POST /semf/SeMFSetting/scanner/add/ HTTP/1.1" 302 0
+[16/Mar/2019 15:43:20] "GET /semf/SeMFSetting/scanner/ HTTP/1.1" 200 4590
+[16/Mar/2019 15:43:20] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:43:20] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:45:22] "GET /semf/SeMFSetting/scanner/2/change/ HTTP/1.1" 200 9537
+[16/Mar/2019 15:45:22] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:45:22] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:45:39] "POST /semf/SeMFSetting/scanner/2/change/ HTTP/1.1" 302 0
+[16/Mar/2019 15:45:39] "GET /semf/SeMFSetting/scanner/ HTTP/1.1" 200 4590
+[16/Mar/2019 15:45:39] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:45:39] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:47:45] "GET /semf/SeMFSetting/scanner/2/change/ HTTP/1.1" 200 9537
+[16/Mar/2019 15:47:45] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:47:49] "GET /semf/ HTTP/1.1" 200 15003
+[16/Mar/2019 15:47:49] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:47:51] "GET /semf/SeMFSetting/scannerpolicies/ HTTP/1.1" 200 3333
+[16/Mar/2019 15:47:51] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:47:51] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:47:53] "GET /semf/SeMFSetting/scannerpolicies/add/ HTTP/1.1" 200 6061
+[16/Mar/2019 15:47:53] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:47:53] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:48:03] "POST /semf/SeMFSetting/scannerpolicies/add/ HTTP/1.1" 302 0
+[16/Mar/2019 15:48:03] "GET /semf/SeMFSetting/scannerpolicies/ HTTP/1.1" 200 4702
+[16/Mar/2019 15:48:03] "GET /semf/jsi18n/ HTTP/1.1" 200 7684
+[16/Mar/2019 15:48:04] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:48:14] "GET / HTTP/1.1" 302 0
+[16/Mar/2019 15:48:14] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 15:48:14] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 15:48:14] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:48:14] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 15:48:19] "GET /vuln/user/ HTTP/1.1" 200 6257
+[16/Mar/2019 15:48:19] "GET /static/lib/layui/lay/modules/table.js HTTP/1.1" 200 20828
+[16/Mar/2019 15:48:19] "GET /static/lib/layui/lay/modules/laytpl.js HTTP/1.1" 200 1836
+[16/Mar/2019 15:48:19] "GET /static/lib/layui/lay/modules/laypage.js HTTP/1.1" 200 4319
+[16/Mar/2019 15:48:19] "POST /vuln/user/list/ HTTP/1.1" 200 70
+[16/Mar/2019 15:48:19] "GET /vuln/cnvd/ HTTP/1.1" 200 4515
+[16/Mar/2019 15:48:20] "POST /vuln/cnvd/list/ HTTP/1.1" 200 3522
+[16/Mar/2019 15:48:20] "GET /static/lib/layui/css/modules/layer/default/loading-1.gif HTTP/1.1" 200 701
+[16/Mar/2019 15:48:20] "GET /static/lib/layui/css/modules/layer/default/icon.png HTTP/1.1" 200 11493
+[16/Mar/2019 15:48:20] "GET /vuln/cnvd/vulnrenew/ HTTP/1.1" 200 2331
+[16/Mar/2019 15:48:21] "GET /static/lib/layui/lay/modules/laydate.js HTTP/1.1" 200 27337
+[16/Mar/2019 15:48:21] "GET /static/lib/layui/lay/modules/layedit.js HTTP/1.1" 200 12635
+[16/Mar/2019 15:48:21] "GET /static/lib/layui/css/modules/laydate/default/laydate.css?v=5.0.9 HTTP/1.1" 200 7537
+[16/Mar/2019 15:48:28] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 15:48:28] "POST /asset/user/list/ HTTP/1.1" 200 356
+[16/Mar/2019 15:48:32] "GET /task/user/scantaskchoice/;01201903161;/ HTTP/1.1" 200 3021
+Internal Server Error: /task/user/scantaskchoice/post/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 21, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/views/Scantasks.py", line 52, in scan_task
+    scan_id = nessus.add_nessus_scan(task_name,task_targetinfo,task_target,task_scanner.id,scanner_police.policies_name)
+  File "/root/SeMF/SecurityManageFramwork/TaskManage/Functions/nessus.py", line 25, in add_nessus_scan
+    scan = Nessus.add(name,introduce,target,pid,scanner_id)
+  File "/root/SeMF/SecurityManageFramwork/SeMFSetting/Functions/Nessus.py", line 89, in add
+    return data['scan']
+KeyError: 'scan'
+[16/Mar/2019 15:48:36] "POST /task/user/scantaskchoice/post/ HTTP/1.1" 500 88461
+[16/Mar/2019 15:49:14] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:49:19] "GET /asset/user/details/01201903161/ HTTP/1.1" 200 16434
+[16/Mar/2019 15:49:20] "GET /asset/user/port/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 15:49:20] "GET /asset/user/file/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 15:49:20] "GET /asset/user/assetconnect/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 15:49:20] "GET /asset/user/vuln/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 15:49:27] "GET /asset/user/details/01201903161/ HTTP/1.1" 200 16434
+[16/Mar/2019 15:49:27] "GET /asset/user/port/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 15:49:27] "GET /asset/user/file/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 15:49:27] "GET /asset/user/assetconnect/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 15:49:27] "GET /asset/user/vuln/01201903161/?page=1&limit=10 HTTP/1.1" 200 70
+[16/Mar/2019 15:50:13] "GET /task/user/scantaskchoice/;01201903161;/ HTTP/1.1" 200 3021
+[16/Mar/2019 15:50:14] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:50:18] "POST /asset/user/task/ HTTP/1.1" 200 67
+[16/Mar/2019 15:50:20] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 15:50:20] "POST /asset/user/list/ HTTP/1.1" 200 356
+[16/Mar/2019 15:50:31] "POST /asset/user/task/ HTTP/1.1" 200 67
+[16/Mar/2019 15:50:33] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 15:50:33] "POST /asset/user/list/ HTTP/1.1" 200 356
+[16/Mar/2019 15:50:34] "GET /asset/user/request/ HTTP/1.1" 200 3777
+[16/Mar/2019 15:50:38] "GET /asset/user/csv/os/ HTTP/1.1" 200 147
+[16/Mar/2019 15:50:54] "GET /asset/user/csv/vuln/ HTTP/1.1" 200 108
+[16/Mar/2019 15:50:59] "GET /asset/user/csv/web/ HTTP/1.1" 200 160
+[16/Mar/2019 15:51:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:52:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:53:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:54:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:55:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:56:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:57:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:58:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 15:59:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:00:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:01:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:02:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:03:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:04:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:05:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:06:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:07:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:08:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:09:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:10:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:11:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:12:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:13:15] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:50:52] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 16:50:53] "GET / HTTP/1.1" 302 0
+[16/Mar/2019 16:50:53] "GET /user/ HTTP/1.1" 200 7256
+[16/Mar/2019 16:50:54] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:50:54] "GET /user/main/ HTTP/1.1" 200 3448
+[16/Mar/2019 16:50:54] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 16:51:03] "GET /favicon.ico HTTP/1.1" 200 330
+[16/Mar/2019 16:51:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:52:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:53:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:54:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:55:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:56:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:57:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:58:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 16:59:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:00:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:01:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:02:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:03:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:04:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:05:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:06:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:07:43] "GET /mapped/ HTTP/1.1" 200 5295
+[16/Mar/2019 17:07:43] "POST /mapped/list/ HTTP/1.1" 200 70
+[16/Mar/2019 17:07:46] "GET /asset/user/ HTTP/1.1" 200 10336
+[16/Mar/2019 17:07:46] "POST /asset/user/list/ HTTP/1.1" 200 356
+[16/Mar/2019 17:07:47] "GET /asset/request/ HTTP/1.1" 200 6743
+[16/Mar/2019 17:07:47] "POST /asset/request/list/ HTTP/1.1" 200 70
+[16/Mar/2019 17:07:54] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:08:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:09:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:10:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:11:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:12:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:13:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:14:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:15:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:16:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:17:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:18:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:19:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:20:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:21:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:22:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:23:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:24:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:25:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:26:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:27:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:28:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:29:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:30:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:31:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:32:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:33:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:34:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:35:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:36:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:37:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:38:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:39:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:40:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:41:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:42:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:43:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:44:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:45:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:46:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:47:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:48:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:49:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:50:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:51:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:52:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:53:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:54:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:55:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:56:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:57:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:58:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 17:59:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:00:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:01:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:02:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:03:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:04:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:05:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:06:54] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:07:54] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:08:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:09:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:10:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:11:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:12:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:13:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:14:55] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:15:54] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:16:54] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:17:54] "GET /notice/count/ HTTP/1.1" 200 19
+[16/Mar/2019 18:18:54] "GET /notice/count/ HTTP/1.1" 200 19
